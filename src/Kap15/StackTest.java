@@ -66,7 +66,7 @@ public class StackTest {
         catch(Exception e) {}
         System.out.println();
         }//end while
-             
+             hej mamma!
     }//end main
     
 }//end class
